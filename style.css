@@ -144,16 +144,13 @@ ul a {
     background-color: #270515;
 }
 .cards {
-    /* background-color:#FBF6F0 ; */
+
     padding: 50px 0px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 50px;
-}
-.section1{
-    /* background-color: #FBF6F0; */
-}
+    gap: 50px;}
+
 .p{
     font-size: 40px;
 display: flex;
